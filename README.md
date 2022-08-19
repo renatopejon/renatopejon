@@ -9,10 +9,10 @@ I mainly code in HTML, CSS and JavaScript. I am always learning!
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renatopejon&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+
+
+## More stuff about me
+
 
 ### What I do
 
@@ -41,5 +41,3 @@ My nickname is Pato 🦆
 ## What I'm currently learning 📚
 
 - FrontEnd Development
-
-</details>
