@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**renatopejon/renatopejon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web development student from Brazil, and I'm cunrrently graduating in Software Analysis and Development at [Uninorte](https://www.uninorteac.edu.br/).
+I mainly code in HTML, CSS and JavaScript. I am always learning!
 
-Here are some ideas to get you started:
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renatopejon&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+### What I do
+
+I am really passionate about doing web development, it is in my opinion the best combination of logical programming and
+(sometimes) beautiful design.
+
+I am a proud father, husband and dog's lover.
+
+My nickname is Pato 🦆
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- HTML, CSS
+- NodeJS
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | C1 Advanced ([EFSET certified](https://efset.org/cert/Yv9Yyq))            |
+| Portuguese    | Native language                                                           |
+
+## What I'm currently learning 📚
+
+- FrontEnd Development
+
+</details>
