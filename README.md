@@ -1,6 +1,7 @@
 # Hi everyone :wave:
 
-I'm a web development student from Brazil, and I'm cunrrently graduating in Software Analysis and Development at [Uninorte](https://www.uninorteac.edu.br/).
+I'm a web development student from Brazil, and I'm cunrrently graduating in Software Analysis and Development at [Uninorte](https://www.uninorteac.edu.br/) and I'm also a self-learner.
+
 I mainly code in HTML, CSS and JavaScript. I am always learning!
 
 ## Quick overview
