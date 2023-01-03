@@ -1,8 +1,8 @@
 # Hi everyone :wave:
 
-I'm a web development student from Brazil, and I'm currently graduating in Software Analysis and Development at [Uninorte](https://www.uninorteac.edu.br/) I'm also a self-learner.
+I'm the IT guy, the one that grandma calls when the TV is not working. I'm currently graduating in Software Analysis and Development at [Uninorte](https://www.uninorteac.edu.br/) I'm also a self-learner.
 
-I mainly code in HTML, CSS, and JavaScript. I am always learning!  
+Currently, I'm learning how to make things easier with Powershell. I am always learning!  
 
 ## Quick overview
 * GitHub stats:  
@@ -19,8 +19,9 @@ My nickname is Pato 🦆
 
 ## My skills 📜
 
-### Web technologies
+### Technologies
 
+- Azure
 - Powershell
 - JavaScript
 - HTML, CSS
@@ -35,4 +36,4 @@ My nickname is Pato 🦆
 
 ## What I'm currently learning 📚
 
-- Azure Fundamentals
+- Azure Fundamentals and Powershell
