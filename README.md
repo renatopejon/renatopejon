@@ -13,12 +13,6 @@ I mainly code in HTML, CSS, and JavaScript. I am always learning!
 
 ## More stuff about me
 
-
-### What I do
-
-I am really passionate about doing web development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
-
 I am a proud father, husband, and dog lover.
 
 My nickname is Pato 🦆
@@ -27,6 +21,7 @@ My nickname is Pato 🦆
 
 ### Web technologies
 
+- Powershell
 - JavaScript
 - HTML, CSS
 - NodeJS
@@ -40,4 +35,4 @@ My nickname is Pato 🦆
 
 ## What I'm currently learning 📚
 
-- FrontEnd Development
+- Azure Fundamentals
