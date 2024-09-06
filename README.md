@@ -1,8 +1,6 @@
 # Hi everyone :wave:
 
-I'm the IT guy, the one that grandma calls when the TV is not working. I'm currently graduating in Software Analysis and Development at [Uninorte](https://www.uninorteac.edu.br/) I'm also a self-learner.
-
-Currently, I'm learning how to make things easier with Powershell. I am always learning!  
+I'm the IT guy, the one that grandma calls when the TV is not working. 
 
 ## Quick overview
 * GitHub stats:  
@@ -21,11 +19,10 @@ My nickname is Pato 🦆
 
 ### Technologies
 
-- Azure
-- Powershell
-- JavaScript
-- HTML, CSS
-- NodeJS
+- Python
+- PowerShell
+- Selenium
+- Scrapy
 
 ### Languages 🌐
 
@@ -34,6 +31,3 @@ My nickname is Pato 🦆
 | English (duh) | C1 Advanced ([EFSET certified](https://efset.org/cert/Yv9Yyq))            |
 | Portuguese    | Native language                                                           |
 
-## What I'm currently learning 📚
-
-- Azure Fundamentals and Powershell
